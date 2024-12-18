@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1444089,RESOLUTION=1328x720,FRAME-RATE=24.000,CODECS="avc1.640020,mp4a.40.2"
+index-v1-a1.m3u8?t=vxIlDEHln4rOw-Bs2bu1uBl4Cr2afqpPKkoKNSi8wZE&s=1734530224&e=14400&f=57865931&node=delivery-node-tw6ml5qidnnni2ll.voe-network.net&i=84.178&sp=2500&asn=3320
+
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=51787,RESOLUTION=1328x720,CODECS="avc1.640020",URI="iframes-v1-a1.m3u8?t=vxIlDEHln4rOw-Bs2bu1uBl4Cr2afqpPKkoKNSi8wZE&s=1734530224&e=14400&f=57865931&node=delivery-node-tw6ml5qidnnni2ll.voe-network.net&i=84.178&sp=2500&asn=3320"
